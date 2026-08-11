@@ -11,7 +11,7 @@
 
 ```
   Repos per Year
-  
+
   20 ┤                                    ██
      ┤                                    ██
   15 ┤                                    ██
@@ -26,7 +26,7 @@
 
 ```
   Language Spread
-  
+
   Dart        ██████████████████████ 23
   TypeScript  █████████ 9
   C++         █████ 5
@@ -52,7 +52,7 @@
 | 2020 | 4 | Flutter arrives |
 | 2021 | 13 | Flutter mastery |
 | 2022 | 19 | Everything explosion |
-| 2023 | 7  | Consolidation begins |
+| 2023 | 7 | Consolidation begins |
 | 2024 | 11 | New stacks, new experiments |
 
 **Totals:** 66 repos · 10 years · 6.6 repos/year · ⭐ 7 stars · 7 forks
@@ -67,8 +67,29 @@
 
 **Most starred:** `tips-viewer` (3) · `fractal_flutter_rust_bridge` · `actix-web-examples` · `flutterSM` · `kapurjs`
 
-**First repo:** `hello-world` — Jun 19, 2015<br>
+**First repo:** `hello-world` — Jun 19, 2015
 **Last capsule repo:** `honotan` — Oct 20, 2024
+
+---
+
+## The Arc
+
+```
+  The Evolution
+
+  BLOG ──► WEB ──► FULL-STACK ──► MOBILE ──► EXPLORE ──► CONSOLIDATE
+  themes    JS      Docker         Flutter    gRPC       packages
+  2015-16   2018    2019           2020-21    Rust       2023
+                                              Go
+                                              Unity      TS PIVOT
+                                              (peak!)    Hono/Remix
+                                              2022       2024
+
+  ───────────────────────────────────────────────────────────►
+  wide exploration                               deep consolidation
+```
+
+The pattern is clear: **wide exploration → deep consolidation**. The product era — Devlyn, Indokorpus, Micromeet, Kuadrat, Gnomix, Postlab — wouldn't exist without every experiment in this capsule.
 
 ---
 
@@ -76,13 +97,11 @@
 
 Started in 2015 with `hello-world`. Blogger templates got me hooked on making things visible. JavaScript tooling in 2018 made me an engineer. Docker and servers in 2019 opened the full-stack door.
 
-Then Flutter hit in 2020 and everything accelerated — 2021 was Flutter all the way down: architecture, state management, ML, even running HTTP servers inside Flutter. By 2022 I was touching everything: gRPC, Go, Rust, Unity, Unreal Engine. Twenty repos in one year. Some brilliant. Some questionable. All real.
+Flutter hit in 2020 and everything accelerated — 2021 was Flutter all the way down: architecture, state management, ML, even running HTTP servers inside Flutter. By 2022 I was touching everything: gRPC, Go, Rust, Unity, Unreal Engine. Nineteen repos in one year. Some brilliant. Some questionable. All real.
 
 2023 was the cooling-off year — only 7 repos, mostly Flutter packages and experiments. The pace slowed, quality rose.
 
-2024 brought a hard pivot to TypeScript and the web: SolidJS, Remix, Hono, Svelte, Astro. A Go boilerplate. The stack was maturing and the experiments were sharper — fewer repos, more intention behind each one.
-
-After 2022 the pattern shifted — fewer repos, more depth, actual products. This capsule captures the era that made the product era possible.
+2024 brought a hard pivot to TypeScript and the web: SolidJS, Remix, Hono, Svelte, Astro. A Go boilerplate. The stack was maturing and the experiments were sharper — more intention behind each one.
 
 ---
 
@@ -171,6 +190,34 @@ After 2022 the pattern shifted — fewer repos, more depth, actual products. Thi
 | [golang-latihan](https://github.com/rifkyputra/golang-latihan) | Learning Go | Go | — |
 | [go-base](https://github.com/rifkyputra/go-base) | Go REST boilerplate with JWT + Postgres | Go | ✓ |
 
+### 2023 — Consolidation Begins
+
+| Name | Description | Lang | Fork |
+|------|-------------|------|------|
+| [golang-templates](https://github.com/rifkyputra/golang-templates) | Go templates, demos, snippets, fun projects | Go | — |
+| [dynamic_height_grid_view_hooks_fix](https://github.com/rifkyputra/dynamic_height_grid_view_hooks_fix) | — | Dart | ✓ |
+| [gits_cli_plus](https://github.com/rifkyputra/gits_cli_plus) | — | Dart | ✓ |
+| [tes_flutterflow](https://github.com/rifkyputra/tes_flutterflow) | — | Dart | — |
+| [circular_seek_bar_plus](https://github.com/rifkyputra/circular_seek_bar_plus) | Circular seek bar Flutter package | Dart | ✓ |
+| [level_map_upgrade](https://github.com/rifkyputra/level_map_upgrade) | Level-map Flutter library | Dart | ✓ |
+| [bonfire-test](https://github.com/rifkyputra/bonfire-test) | — | C++ | — |
+
+### 2024 — New Stacks, New Experiments
+
+| Name | Description | Lang | Fork |
+|------|-------------|------|------|
+| [SolidJS-Box](https://github.com/rifkyputra/SolidJS-Box) | Experiment with SolidJS signals | TypeScript | — |
+| [try_remix](https://github.com/rifkyputra/try_remix) | — | TypeScript | — |
+| [soundboard-pwa](https://github.com/rifkyputra/soundboard-pwa) | Offline-first soundboard PWA | TypeScript | — |
+| [remix-elysia](https://github.com/rifkyputra/remix-elysia) | — | TypeScript | — |
+| [epic-stack](https://github.com/rifkyputra/epic-stack) | Epic Stack with Hono, Drizzle, MillionJS, Cloudflare | TypeScript | ✓ |
+| [suuu](https://github.com/rifkyputra/suuu) | — | TypeScript | — |
+| [fiber-go-boilerplate](https://github.com/rifkyputra/fiber-go-boilerplate) | Production-ready Go + Fiber boilerplate | Go | ✓ |
+| [googIe](https://github.com/rifkyputra/googIe) | The Googie Academy | Astro | — |
+| [enka](https://github.com/rifkyputra/enka) | — | Dockerfile | — |
+| [kedaikopi](https://github.com/rifkyputra/kedaikopi) | — | Svelte | — |
+| [honotan](https://github.com/rifkyputra/honotan) | Hono + TanStack Start template | TypeScript | — |
+
 ---
 
 ## Lessons — What Each Era Taught Me
@@ -185,7 +232,7 @@ After 2022 the pattern shifted — fewer repos, more depth, actual products. Thi
 
 ### 2018: JavaScript Awakening
 
-**`kapurjs`** — First real boilerplate. ES7, front-end tooling, build pipelines. Started thinking like an engineer not a tinkerer.
+**`kapurjs`** — First real boilerplate. ES7, front-end tooling, build pipelines. Started thinking like an engineer, not a tinkerer.
 
 **`portfolio-rifky`** — First portfolio. A dev without a portfolio is invisible.
 
@@ -218,25 +265,6 @@ Docker (`strapi-docker`), static sites (`academic-kickstart`), Jekyll themes, mu
 
 > **Lesson:** Go deep on one stack before spreading thin. A year of Flutter taught more than 5 years of hopping. Dart on the server is underrated.
 
-### 2023: Consolidation
-
-7 repos. The year things slowed down and sharpened. Mostly Flutter packages (`circular_seek_bar_plus`, `level_map_upgrade`) — open-source contributions rather than throwaway experiments. Go templates for reusable snippets. The fire was still there, just more focused.
-
-> **Lesson:** Not every year needs to be a firehose. The quiet years lay foundations the loud years build on.
-
-### 2024: The TypeScript Pivot
-
-10 repos. A hard turn back toward the web:
-
-- **SolidJS**: `SolidJS-Box` — signals-based reactivity exploration
-- **Remix + Elysia**: `try_remix`, `remix-elysia` — full-stack web frameworks
-- **Hono ecosystem**: `epic-stack`, `honotan` — edge-first, Cloudflare-native
-- **Svelte**: `kedaikopi` — dipping into Svelte
-- **Astro**: `googIe` — content-first sites
-- **Go**: `fiber-go-boilerplate` — production Go API scaffolding
-
-> **Lesson:** Stacks evolve. Flutter dominated 2020–2022. TypeScript took over 2024. The constant isn't the framework — it's the willingness to keep learning.
-
 ### 2022: The Everything Explosion
 
 19 repos. The peak exploration year:
@@ -252,56 +280,27 @@ Docker (`strapi-docker`), static sites (`academic-kickstart`), Jekyll themes, mu
 
 > **Lesson:** Explore everything while the fire is hot. Not every experiment needs to become a product. The breadth builds intuition; depth comes later.
 
+### 2023: Consolidation
+
+7 repos. The year things slowed down and sharpened. Mostly Flutter packages (`circular_seek_bar_plus`, `level_map_upgrade`) — open-source contributions rather than throwaway experiments. Go templates for reusable snippets. The fire was still there, just more focused.
+
+> **Lesson:** Not every year needs to be a firehose. The quiet years lay foundations the loud years build on.
+
+### 2024: The TypeScript Pivot
+
+11 repos. A hard turn back toward the web:
+
+- **SolidJS**: `SolidJS-Box` — signals-based reactivity exploration
+- **Remix + Elysia**: `try_remix`, `remix-elysia` — full-stack web frameworks
+- **Hono ecosystem**: `epic-stack`, `honotan` — edge-first, Cloudflare-native
+- **Svelte**: `kedaikopi` — dipping into Svelte
+- **Astro**: `googIe` — content-first sites
+- **Go**: `fiber-go-boilerplate` — production Go API scaffolding
+- **PWA**: `soundboard-pwa` — offline-first progressive web app
+
+> **Lesson:** Stacks evolve. Flutter dominated 2020–2022. TypeScript took over 2024. The constant isn't the framework — it's the willingness to keep learning.
+
 ---
-
-## The Arc
-
-```
-  The Evolution
-  
-  BLOG ──► WEB ──► FULL-STACK ──► MOBILE ──► EXPLORE ──► CONSOLIDATE
-  themes    JS      Docker         Flutter    gRPC       packages
-  2015-16   2018    2019           2020-21    Rust       2023
-                                              Go
-                                              Unity      TS PIVOT
-                                              (peak!)    Hono/Remix
-                                              2022       2024
-  
-  ───────────────────────────────────────────────────────────►
-  wide exploration                               deep consolidation
-```
-
-The pattern is clear: **wide exploration → deep consolidation**. The 2023+ era — Devlyn, Indokorpus, Micromeet, Kuadrat, Gnomix, Postlab — wouldn't exist without every experiment in this capsule.
-
----
-
-### 2023 — Consolidation Begins
-
-| Name | Description | Lang | Fork |
-|------|-------------|------|------|
-| [golang-templates](https://github.com/rifkyputra/golang-templates) | Go templates, demos, snippets, fun projects | Go | — |
-| [dynamic_height_grid_view_hooks_fix](https://github.com/rifkyputra/dynamic_height_grid_view_hooks_fix) | — | Dart | ✓ |
-| [gits_cli_plus](https://github.com/rifkyputra/gits_cli_plus) | — | Dart | ✓ |
-| [tes_flutterflow](https://github.com/rifkyputra/tes_flutterflow) | — | Dart | — |
-| [circular_seek_bar_plus](https://github.com/rifkyputra/circular_seek_bar_plus) | Circular seek bar Flutter package | Dart | ✓ |
-| [level_map_upgrade](https://github.com/rifkyputra/level_map_upgrade) | Level-map Flutter library | Dart | ✓ |
-| [bonfire-test](https://github.com/rifkyputra/bonfire-test) | — | C++ | — |
-
-### 2024 — New Stacks, New Experiments
-
-| Name | Description | Lang | Fork |
-|------|-------------|------|------|
-| [SolidJS-Box](https://github.com/rifkyputra/SolidJS-Box) | Experiment with SolidJS signals | TypeScript | — |
-| [try_remix](https://github.com/rifkyputra/try_remix) | — | TypeScript | — |
-| [soundboard-pwa](https://github.com/rifkyputra/soundboard-pwa) | Offline-first soundboard PWA | TypeScript | — |
-| [remix-elysia](https://github.com/rifkyputra/remix-elysia) | — | TypeScript | — |
-| [epic-stack](https://github.com/rifkyputra/epic-stack) | Epic Stack with Hono, Drizzle, MillionJS, Cloudflare | TypeScript | ✓ |
-| [suuu](https://github.com/rifkyputra/suuu) | — | TypeScript | — |
-| [fiber-go-boilerplate](https://github.com/rifkyputra/fiber-go-boilerplate) | Production-ready Go + Fiber boilerplate | Go | ✓ |
-| [googIe](https://github.com/rifkyputra/googIe) | The Googie Academy | Astro | — |
-| [enka](https://github.com/rifkyputra/enka) | — | Dockerfile | — |
-| [kedaikopi](https://github.com/rifkyputra/kedaikopi) | — | Svelte | — |
-| [honotan](https://github.com/rifkyputra/honotan) | Hono + TanStack Start template | TypeScript | — |
 
 ## Note
 
