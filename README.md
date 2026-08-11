@@ -1,4 +1,4 @@
-# 🕰️ Time Capsule — 2015–2022
+# 🕰️ Time Capsule — 2015–2024
 
 > Curated archive of 66 public repos from 2015 to 2024.
 > Every experiment, prototype, and glorious moment — frozen in time.
@@ -6,6 +6,40 @@
 ---
 
 ## By the Numbers
+
+```
+  Repos per Year
+  
+  20 ┤                                    ██
+     ┤                                    ██
+  15 ┤                                    ██
+     ┤                              ██    ██
+  10 ┤                              ██    ██    ██
+     ┤                              ██    ██    ██
+   5 ┤              ██              ██    ██    ██    ██
+     ┤    ██    ██  ██        ██    ██    ██    ██    ██
+     └──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──
+           '15   '16   '17   '18   '19   '20   '21   '22   '23   '24
+```
+
+```
+  Language Spread
+  
+  Dart        ██████████████████████ 23
+  TypeScript  ████████ 8
+  C++         █████ 5
+  HTML        ████ 4
+  Go          ███ 3
+  JavaScript  ███ 3
+  Rust        ██ 2
+  Shell       ██ 2
+  Svelte      █ 1
+  Astro       █ 1
+  C#          █ 1
+  QML         █ 1
+  Handlebars  █ 1
+  Dockerfile  █ 1
+```
 
 | Year | Repos | Theme |
 |------|-------|-------|
@@ -221,15 +255,18 @@ Docker (`strapi-docker`), static sites (`academic-kickstart`), Jekyll themes, mu
 ## The Arc
 
 ```
-2015-16 → Discovery (blog themes, HTML)
-2018    → Engineering (boilerplates, tooling)
-2019    → Full-stack (Docker, servers, deployment)
-2020    → Flutter ignition
-2021    → Flutter mastery (architecture, backend, ML)
-2022    → Exploration (gRPC, Go, Rust, Unity, gamedev, performance)
-2023    → Consolidation (open-source packages, fewer repos)
-2024    → TypeScript pivot (Hono, Remix, SolidJS, Svelte, Astro, Cloudflare)
-2025+   → Products (fewer repos, more depth, real products)
+  The Evolution
+  
+  BLOG ──► WEB ──► FULL-STACK ──► MOBILE ──► EXPLORE ──► CONSOLIDATE
+  themes    JS      Docker         Flutter    gRPC       packages
+  2015-16   2018    2019           2020-21    Rust       2023
+                                              Go
+                                              Unity      TS PIVOT
+                                              (peak!)    Hono/Remix
+                                              2022       2024
+  
+  ───────────────────────────────────────────────────────────►
+  wide exploration                               deep consolidation
 ```
 
 The pattern is clear: **wide exploration → deep consolidation**. The 2023+ era — Devlyn, Indokorpus, Micromeet, Kuadrat, Gnomix, Postlab — wouldn't exist without every experiment in this capsule.
