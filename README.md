@@ -19,7 +19,20 @@
 | 2023 | 7  | Consolidation begins |
 | 2024 | 10 | New stacks, new experiments |
 
-**Languages:** Dart (23) · TypeScript (8) · C++ (5) · HTML (4) · Go (3) · JavaScript (3) · Rust (2) · Shell (2) · Svelte, Astro, QML, C#, Handlebars, Dockerfile (1 each)
+**Totals:** 66 repos · 10 years · 6.6 repos/year · ⭐ 7 stars · 7 forks
+
+**Top languages:** Dart (23) · TypeScript (8) · C++ (5) · HTML (4) · Go (3) · JavaScript (3)
+
+**Also touched:** Rust (2) · Shell (2) · Svelte · Astro · QML · C# · Handlebars · Dockerfile
+
+**Busiest months:** Aug 2023 (5 repos) · Sep 2022 (4) · Dec 2022 (4)
+
+**Longest gap:** 2017 — the only year with zero repos (the year of learning before building)
+
+**Most starred:** `tips-viewer` (3) · `fractal_flutter_rust_bridge` · `actix-web-examples` · `flutterSM` · `kapurjs`
+
+**First repo:** `hello-world` — Jun 19, 2015<br>
+**Last capsule repo:** `honotan` — Oct 20, 2024
 
 ---
 
