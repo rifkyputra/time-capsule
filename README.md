@@ -17,7 +17,7 @@
   10 ┤                              ██    ██    ██
      ┤                              ██    ██    ██
    5 ┤              ██              ██    ██    ██    ██
-     ┤    ██    ██  ██        ██    ██    ██    ██    ██
+     ┤    ██    ██  ██        ██    ██    ██    ███   ██
      └──────┬──────┬──────┬──────┬──────┬──────┬──────┬──────┬──
            '15   '16   '17   '18   '19   '20   '21   '22   '23   '24
 ```
@@ -26,7 +26,7 @@
   Language Spread
   
   Dart        ██████████████████████ 23
-  TypeScript  ████████ 8
+  TypeScript  █████████ 9
   C++         █████ 5
   HTML        ████ 4
   Go          ███ 3
@@ -51,11 +51,11 @@
 | 2021 | 13 | Flutter mastery |
 | 2022 | 19 | Everything explosion |
 | 2023 | 7  | Consolidation begins |
-| 2024 | 10 | New stacks, new experiments |
+| 2024 | 11 | New stacks, new experiments |
 
 **Totals:** 66 repos · 10 years · 6.6 repos/year · ⭐ 7 stars · 7 forks
 
-**Top languages:** Dart (23) · TypeScript (8) · C++ (5) · HTML (4) · Go (3) · JavaScript (3)
+**Top languages:** Dart (23) · TypeScript (9) · C++ (5) · HTML (4) · Go (3) · JavaScript (3)
 
 **Also touched:** Rust (2) · Shell (2) · Svelte · Astro · QML · C# · Handlebars · Dockerfile
 
@@ -291,6 +291,7 @@ The pattern is clear: **wide exploration → deep consolidation**. The 2023+ era
 |------|-------------|------|------|
 | [SolidJS-Box](https://github.com/rifkyputra/SolidJS-Box) | Experiment with SolidJS signals | TypeScript | — |
 | [try_remix](https://github.com/rifkyputra/try_remix) | — | TypeScript | — |
+| [soundboard-pwa](https://github.com/rifkyputra/soundboard-pwa) | Offline-first soundboard PWA | TypeScript | — |
 | [remix-elysia](https://github.com/rifkyputra/remix-elysia) | — | TypeScript | — |
 | [epic-stack](https://github.com/rifkyputra/epic-stack) | Epic Stack with Hono, Drizzle, MillionJS, Cloudflare | TypeScript | ✓ |
 | [suuu](https://github.com/rifkyputra/suuu) | — | TypeScript | — |
