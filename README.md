@@ -2,6 +2,8 @@
 
 > Curated archive of 66 public repos from 2015 to 2024.
 > Every experiment, prototype, and glorious moment — frozen in time.
+>
+> ⚠️ **Disclaimer:** This is a snapshot of personal side projects and experiments on GitHub only. It does not reflect my full career — professional work, team contributions, private repos, and client projects are not included here.
 
 ---
 
